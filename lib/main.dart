@@ -24,6 +24,7 @@ class MyApp extends ConsumerWidget {
     final isFirstTime = LocalStorage().isFirstTime;
     return MaterialApp(
       title: 'Winter Gemini',
+      debugShowCheckedModeBanner: false,
       theme: lightMode,
       darkTheme: darkMode,
       themeMode: themeMode,

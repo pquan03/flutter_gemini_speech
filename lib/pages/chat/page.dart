@@ -105,7 +105,7 @@ class _ChatPageState extends State<ChatPage> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'Chat GPT',
+                  'Winter Gemini',
                   style: TextStyle(
                       fontSize: 20,
                       fontWeight: FontWeight.bold,

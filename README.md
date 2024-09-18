@@ -1,16 +1,15 @@
-# winter_gemini_ai
+# Flutter Gemini Ai With Speech
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![Screenshot_1](https://github.com/winter071203/flutter_ecommerce_app/blob/main/assets/images/githubs/1.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Development Notice
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1- Clone project with https://github.com/winter071203/flutter_ecommerce_app.git
+
+2- Run **flutter pub get** in terminal
+
+3- Run flutter run in terminal
